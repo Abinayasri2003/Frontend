@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+}
+p,h4{
+    font-size:40px;
+    color:blue;
+}
+img{
+    border:10px dotted red;
+}
+.web{
+    text-decoration: none;
+    color:darkgreen;
+    font-size:smaller;
+}
